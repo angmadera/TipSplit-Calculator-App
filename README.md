@@ -14,3 +14,5 @@ A separate landscape layout was created. The app looks and acts consistently whe
 
 # Example
 Below are examples of how the app looks in both orientations:
+
+![Screenshot 2021-12-17 160536.png](https://github.com/angmadera/images/blob/main/Screenshot%202021-12-17%20160536.png?raw=true)
